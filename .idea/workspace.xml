@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ff3fbec-f749-4733-b74a-afd3c91af9d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+    <list default="true" id="5ff3fbec-f749-4733-b74a-afd3c91af9d2" name="Changes" comment="First Solution">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,11 +66,35 @@
       <option name="presentableId" value="Default" />
       <updated>1718014393825</updated>
       <workItem from="1718014395259" duration="3711000" />
-      <workItem from="1718092113898" duration="367000" />
+      <workItem from="1718092113898" duration="846000" />
     </task>
+    <task id="LOCAL-00001" summary="First Solution">
+      <option name="closed" value="true" />
+      <created>1718092623908</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718092623908</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Solution" />
   </component>
 </project>
